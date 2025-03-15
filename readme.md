@@ -1,12 +1,12 @@
-# MMolCoT
+# LLM-MPP
 
-MMolCoT (Multi-Modal Chain-of-Thought) is a novel framework designed to enhance molecular property prediction by integrating multi-modal molecular data. The model leverages large language models (LLMs) and advanced fusion techniques to align and extract features from 1D SMILES strings, 2D molecular graphs, and molecular textual descriptions. MMolCoT introduces Chain-of-Thought (CoT) reasoning to improve interpretability and prediction accuracy, making it a powerful tool for real-world applications such as drug discovery.
+LLM-MPP is a novel framework designed to enhance molecular property prediction by integrating multi-modal molecular data. The model leverages large language models (LLMs) and advanced fusion techniques to align and extract features from 1D SMILES strings, 2D molecular graphs, and molecular textual descriptions. LLM-MPP introduces Chain-of-Thought (CoT) reasoning to improve interpretability and prediction accuracy, making it a powerful tool for real-world applications such as drug discovery.
 
 ## Installation
 1.	Clone the repository:
 ```bash
-git clone https://github.com/jinchang1223/MMolCoT.git
-cd MMolCoT
+git clone https://github.com/jinchang1223/LLM-MPP.git
+cd LLM-MPP
 ```
 
 2.	Install dependencies:
@@ -29,6 +29,6 @@ python main.py --generate_cot
 python main.py 
 ```
 
-## Citation
-If you use MMolCoT in your work, please cite our paper:
+<!-- ## Citation
+If you use LLM-MPP in your work, please cite our paper: -->
 
